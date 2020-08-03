@@ -88,7 +88,7 @@ body {
 .main-color-bg {
     background-color: #e74c3c !important;
     border-color: #c0392b !important;
-    color: #ffffff;
+    color: #ffffff !important;
 
 }
 
@@ -112,6 +112,12 @@ body {
 
 .breadcrumb a {
     color: #333333;
+}
+
+/*Progress Bar*/
+.progress-bar {
+    background: #333333;
+    color: #ffffff;
 }
 
 @media (max-width: 767px) {
